@@ -158,7 +158,7 @@ Use a smaller model (tinyllama)
 Ensure you have enough RAM (8GB recommended)
 
 Prefer SSD over microSD for fewer stalls
-## 1) Prerequisites
+## Prerequisites
 
 Update your Pi:
 ```bash
@@ -168,7 +168,7 @@ sudo apt update && sudo apt upgrade -y
 
 
 
-
+## Test 
 
 1️⃣ Logical consistency test
 If all bloops are razzles,
