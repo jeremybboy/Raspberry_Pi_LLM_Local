@@ -163,3 +163,44 @@ Prefer SSD over microSD for fewer stalls
 Update your Pi:
 ```bash
 sudo apt update && sudo apt upgrade -y
+
+
+
+
+
+
+
+1️⃣ Logical consistency test
+If all bloops are razzles,
+and some razzles are quibs,
+can we conclude that some bloops are quibs?
+Explain carefully.
+
+Correct answer: No.
+This tests formal reasoning.
+
+2️⃣ Multi-step arithmetic (no calculator)
+What is 137 × 248?
+Show your steps.
+
+This reveals hallucinated math vs structured reasoning.
+
+3️⃣ Trick instruction following
+Write a three-word sentence. Do not use the letter "e".
+
+Most small models fail this.
+
+4️⃣ Chain-of-thought planning
+You have a 3-liter jug and a 5-liter jug.
+How can you measure exactly 4 liters?
+Explain step by step.
+
+Tests structured procedural reasoning.
+
+5️⃣ Ambiguity handling
+A bat and a ball cost $1.10 total.
+The bat costs $1 more than the ball.
+How much does the ball cost?
+
+Correct answer: $0.05
+Many weaker models say $0.10.
